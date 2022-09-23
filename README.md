@@ -1,2 +1,2 @@
 # wky
-wky
+training
